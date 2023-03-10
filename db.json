@@ -1,3 +1,42 @@
 {
-  "enquiry": []
+  "enquiry": [
+    {
+      "firstName": "Ila",
+      "lastName": "Holcomb",
+      "email": "jafu@mailinator.com",
+      "mobile": "1234567890",
+      "weight": 80,
+      "height": 1.8,
+      "bmi": 24.691358024691358,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Quarterly",
+      "important": [
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "1972-09-17T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Quemby",
+      "lastName": "Kliner",
+      "email": "wijyhalizo@mailinator.com",
+      "mobile": "1234567890",
+      "weight": 100,
+      "height": 1.6,
+      "bmi": 39.06249999999999,
+      "bmiResult": "Obese",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "1978-04-20T21:00:00.000Z",
+      "id": 2
+    }
+  ]
 }

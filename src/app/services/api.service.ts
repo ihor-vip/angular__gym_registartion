@@ -13,7 +13,7 @@ export class ApiService {
     return this.http.post<User>(`${this.baseUrl}`, registerObj)
   }
 
-  getRegisteredUser(registerObj: User) {
+  getRegisteredUser() {
     return this.http.get<User[]>(`${this.baseUrl}`)
   }
 
