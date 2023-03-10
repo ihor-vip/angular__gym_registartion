@@ -18,6 +18,27 @@
       "haveGymBefore": "No",
       "enquiryDate": "1978-04-20T21:00:00.000Z",
       "id": 2
+    },
+    {
+      "firstName": "Moses",
+      "lastName": "Parrish",
+      "email": "qoxofori@mailinator.com",
+      "mobile": "1225454656",
+      "weight": 98,
+      "height": 1.99,
+      "bmi": 24.74684982702457,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "1984-02-08T21:00:00.000Z",
+      "id": 3
     }
   ]
 }
